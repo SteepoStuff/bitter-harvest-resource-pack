@@ -1,0 +1,13 @@
+# Ignore config with potential secrets
+pack_config.json
+
+# Debug files
+mcpacks_response.html
+
+# Temp build files
+temp_pack_build/
+
+# Python cache
+__pycache__/
+*.pyc
+
